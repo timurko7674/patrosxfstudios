@@ -114,7 +114,7 @@
 
         <section id="partnership">
             <h2>Partnership</h2>
-            <p>Interested in partnering with us? <a href="google-form-link">Apply here</a>.</p>
+            <p>Interested in partnering with us? <a href="https://docs.google.com/forms/d/e/1FAIpQLScP0kqhl7Dt_oQ8R0oVbvldk_7wcO2Ek84Ry5KO7n4lufEimQ/viewform?usp=sf_link">Apply here</a>.</p>
             <!-- Add more content here -->
         </section>
 
@@ -139,8 +139,8 @@
     <script>
         function downloadGame() {
             // URLs for the game file and icon
-            const gameUrl = 'https://drive.google.com/file/d/1Q2DWOovbTw0Idd1SxuGVz-VFFzvAYyT9/view?usp=drive_link';
-            const iconUrl = 'https://drive.google.com/file/d/1FhUE9Pv3XOKjPiWt8j2m51QSIrP9mgZi/view?usp=drive_link';
+            const gameUrl = 'https://drive.google.com/uc?export=download&id=1Q2DWOovbTw0Idd1SxuGVz-VFFzvAYyT9';
+            const iconUrl = 'https://drive.google.com/uc?export=download&id=1FhUE9Pv3XOKjPiWt8j2m51QSIrP9mgZi';
 
             // Create invisible links to trigger download
             const gameLink = document.createElement('a');
